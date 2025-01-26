@@ -27,6 +27,10 @@ Before running the application, run window batch file:
 
 cd "../2.CameraBooth-main/CameraBooth/pythonCamera"
 cmd.exe /c install.bat
+```
+
+then run the application
+```bash
 cd "../2.CameraBooth-main/CameraBooth/bin/Debug"
 start CameraBooth.exe
 ```
