@@ -1,0 +1,75 @@
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe.config
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\bin\Debug\CameraBooth.pdb
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.AssemblyReference.cache
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\obj\Debug\CameraBooth.Properties.Resources.resources
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.GenerateResource.cache
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.CoreCompileInputs.cache
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\obj\Debug\CameraBooth.exe
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\CameraBooth\obj\Debug\CameraBooth.pdb
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe.config
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\CameraBooth.pdb
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.AssemblyReference.cache
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBooth.Form1.resources
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBooth.Properties.Resources.resources
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.GenerateResource.cache
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.CoreCompileInputs.cache
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBooth.exe
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBooth.pdb
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\Microsoft.Dynamic.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\Microsoft.Scripting.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Buffers.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Memory.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Numerics.Vectors.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\Microsoft.Dynamic.xml
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\Microsoft.Scripting.xml
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Buffers.xml
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Memory.xml
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Numerics.Vectors.xml
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\obj\Debug\CameraBo.060893A0.Up2Date
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.ValueTuple.dll
+D:\Server Svn\Freelance\CameraBooth\CameraBooth\bin\Debug\System.ValueTuple.xml
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe.config
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\bin\Debug\CameraBooth.pdb
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.AssemblyReference.cache
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.Form1.resources
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.Properties.Resources.resources
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.GenerateResource.cache
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.CoreCompileInputs.cache
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.exe
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.pdb
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.FormConfig.resources
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.FormSum.resources
+D:\Server Svn\Freelance\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.FormPreview.resources
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe.config
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\bin\Debug\CameraBooth.exe
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\bin\Debug\CameraBooth.pdb
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.Form1.resources
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.FormConfig.resources
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.FormPreview.resources
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.FormSum.resources
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.Properties.Resources.resources
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.exe
+C:\Users\User\Desktop\2.CameraBooth\CameraBooth\obj\Debug\CameraBooth.pdb
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\bin\Debug\CameraBooth.exe.config
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\bin\Debug\CameraBooth.exe
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\bin\Debug\CameraBooth.pdb
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.csproj.AssemblyReference.cache
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.Form1.resources
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.FormConfig.resources
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.FormPreview.resources
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.FormSum.resources
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.Properties.Resources.resources
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.csproj.GenerateResource.cache
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.csproj.CoreCompileInputs.cache
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.exe
+D:\IPH\Freelance\2.CameraBooth-main(2)\2.CameraBooth-main\CameraBooth\obj\Debug\CameraBooth.pdb
